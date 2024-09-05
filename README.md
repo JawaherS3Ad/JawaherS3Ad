@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm JAWAHER ALMUTAIRI</h1>
 <h3 align="center">A passionate Data Scientist from Saudi Arabia</h3>
 
+- 👩‍💻 I’m currently working on **DATA ANALYSIS**
+
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
+
+- ✨ I Want to be **AI Engineer**
+
+- 🎓 My Major is **Computer Science**
 
 - 📫 How to reach me **Jawaher.S.3.A@gmail.com**
 
+- 💁‍♀️ about me **I'm a curious and enthusiastic individual who loves to learn and grow. In addition to coding, I enjoy reading, language learning, and volunteering. I'm a team player who believes in the power of collaboration.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jawaher-almutairi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jawaher-almutairi1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/jawaher-almutairi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jawaher-almutairi1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
